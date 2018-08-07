@@ -6,3 +6,6 @@ https://stackoverflow.com/questions/35833823/spring-restful-webservice-to-upload
 https://www.youtube.com/watch?v=VNuCBgML4R8
 
 https://dzone.com/articles/how-to-convert-csv-to-json-in-java
+
+for convertinf CSV to bean
+http://opencsv.sourceforge.net/
